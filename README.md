@@ -1,1 +1,1 @@
-# CrudAppJavafx
+# javafx + sql application using sceneBuilder
